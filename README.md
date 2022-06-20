@@ -20,6 +20,8 @@ Built with :
 - [React](https://reactjs.org/) - JS library
 - [TailwindCSS ](https://tailwindcss.com/) - For styles
 
+Online deployment link : [IP address tracker](https://arian4.github.io/ip-address-tracker/)
+
 ## What I learned
 
 In this project I worked with two APIs. One to get the geographical location and the other to render the map. The interactions between the two were fascinating and challenging for me. There were also challenges to responsive the app that I did with Tailwind
